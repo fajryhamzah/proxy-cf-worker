@@ -1,0 +1,5 @@
+name = "proxy-cf-worker"
+main = "src/index.ts"
+compatibility_date = "2025-12-12"
+
+# Account details (will be auto-filled after first deploy)
